@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
-Built-By: pedramaranian
-Build-Jdk: 11.0.1
+Built-By: Chris Master Race
+Build-Jdk: 11.0.2
 Implementation-Title: FileExplorer
 Implementation-Version: 0.0.1-SNAPSHOT
 Implementation-Vendor-Id: com.web
